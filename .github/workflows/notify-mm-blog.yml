@@ -1,8 +1,8 @@
 name: notify-mm-blog
 on:
   push:
-    branches:
-      - master
+    #branches:
+    #  - master
     paths:
       - 'site/content/blog/**'
 
